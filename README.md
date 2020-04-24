@@ -21,9 +21,9 @@
 
 
 
+![Alt text] (/path/to/img.jpg)
+![Alt text] (/path/to/img.jpg 'Optional title'))
 
-
-![Alt text] (/path/to/da803f231820ce91b5ab01b913ac48ade802691cf7d60c8228a2160384e9acee2c4f4c587992c3079d6b1e9383bdb16582956e035afb34660ec61273ab7caf03ff4eaf71b9c3db9008ff8ed30e3cd500c86cdd3bad440269ca157c8e5965ce0b.jpg)
 
 
 
